@@ -1,6 +1,7 @@
 # CS360
 Mobile Architect &amp; Programming
-Timothy Johnson
+
+By: Timothy Johnson
 December 2024
 Professor Benavente
 
